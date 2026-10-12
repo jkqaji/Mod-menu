@@ -1,0 +1,13 @@
+{
+  "name": "MOD MENU PRO",
+  "short_name": "MOD",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#8a0f0f",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "static/coringa.jpg", "sizes": "192x192", "type": "image/jpeg" },
+    { "src": "static/coringa.jpg", "sizes": "512x512", "type": "image/jpeg" }
+  ]
+}
